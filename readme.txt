@@ -9,6 +9,6 @@ Initial Release.
 PS. No you don't have to rename the exe file to use it but if you want to use the original one you have to rename or remove game.ini.
 Set these settings wisely. If you can't run the game - use the default settings.
 
-+++ Feel the power of advanced reverse engineering. Fuck the crackes. +++
++++ Feel the power of advanced reverse engineering. Fuck the crackers. +++
 
 (c) Unknownproject. Copyright material used under fair use for research and improvement purposes.
