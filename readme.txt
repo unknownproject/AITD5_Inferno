@@ -2,7 +2,7 @@ Initial Release.
 
 - Disabled various Anti-Debug features;
 - Applied 64 bit compilations flags (>2 Gigs ram usage/DEP);
-- Improved DirectX Usage/Miltithreading Support;
+- Improved DirectX Usage/Multithreading Support;
 - Restored Game.INI (Global config file for the game engine);
 [Including various settings such as fps limit, shadows size, resolution, fullscreen/windowed mode switch etc].
 
