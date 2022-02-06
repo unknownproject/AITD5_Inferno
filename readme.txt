@@ -28,8 +28,6 @@ Steam - http://steamcommunity.com/profiles/76561198017988277
 YouTube - https://www.youtube.com/channel/UCCjgivnEXTz7vLE4n894Wsg
 ================================================================================================================================================================
 Donate:
-QIWI    - https://qiwi.me/support_unknownproject
-YANDEX  - https://money.yandex.ru/bill/pay/WHt3qQC6Hcs.191016
 BitCoin - 1La9snD8Kao9WNexqH1j5t6PbeAtNtXTio
 If you wish to use alternative ways - just contact me.
 ================================================================================================================================================================
